@@ -1,6 +1,8 @@
-<h1 align="center"AdvanceFalling Team</h1>
+<h1 align="center">AdvanceFalling Team</h1>
 <h3 align="center">We Are A Mobile Scripting Team</h3>
 
+<h3 align="left">About Us</h3>
+<p>We Just Make Script For Fun or Code For Fun thats all</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
@@ -17,11 +19,3 @@
 <br>
 
 
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=AdvanceFTeam&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvanceFTeam&hide_border=true&layout=compact&hide=rescript" align="left" style="width: 100%"/>
-
-</td></tr></table>
-![](https://komarev.com/ghpvc/?username=AdvanceFTeam&style=plastic)
