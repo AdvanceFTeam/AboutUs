@@ -15,7 +15,6 @@
 <img align="left" alt="Javascript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="nodejs" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"/>
-<img align="left" alt="Linux" width="30px" src="https://user-images.githubusercontent.com/116656099/199559918-bf1278cd-4de2-4a66-9b4c-3ba470ed46cb.svg"/>
 <br>
 
 
